@@ -1,0 +1,16 @@
+{
+  "name": "stremio-gdrive-addon",
+  "version": "1.0.0",
+  "description": "GDrive Stremio addon (Express) - modular, Upstash optional, no envs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "you",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12"
+  }
+}
